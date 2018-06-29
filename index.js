@@ -4,5 +4,5 @@ function returnFirstTwoDrivers(array) {
       let result = [array[0], array[1]];
       return result
   }
-  return result;
+  return result(array);
 }
