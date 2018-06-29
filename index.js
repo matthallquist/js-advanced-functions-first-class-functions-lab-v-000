@@ -3,5 +3,5 @@ function returnFirstTwoDrivers(array) {
   const result = function(array) {
     array[-2,-1];
   }
-  return result;
+  return result(array);
 }
