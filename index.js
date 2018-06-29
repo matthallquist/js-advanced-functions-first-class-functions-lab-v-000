@@ -1,7 +1,8 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(array) {
   const result = function(array) {
-    return array[-1];
+      let result = [array[0], array[1]];
+      return result
   }
   result(array);
 }
