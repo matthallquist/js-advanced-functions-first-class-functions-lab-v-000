@@ -1,4 +1,6 @@
 // Code your solution in this file!
-function returnFirstTwoDrivers() {
-  
+function returnFirstTwoDrivers(array) {
+  const result = function(array) {
+    return array[-2,-1];
+  }
 }
