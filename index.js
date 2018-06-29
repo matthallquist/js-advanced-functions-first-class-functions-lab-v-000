@@ -1,8 +1,8 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(array) {
   const result = function(array) {
-      let result = [array[0], array[1]];
-      return result;
+      let solution = [array[0], array[1]];
+      return solution;
   }
   return result(array);
 }
