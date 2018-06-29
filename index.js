@@ -3,5 +3,6 @@ const returnFirstTwoDrivers = function(array) {
 }
 
 const returnLastTwoDrivers = function(array) {
+  length = array.length;
   return [array[-1], array[-2]];
 }
